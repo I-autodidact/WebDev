@@ -1,5 +1,6 @@
-## Forray in Learning HTML/CSS/Javascript 
-### This is my attmept at learning HTML/CSS/Javascript via [Freecodecamp](https://www.freecodecamp.com) :thumbsup:. All codes are from freecodecamp, unless specified otherwise. I am also learning Git/hub and VIM.  
+## What 
+#This is my forray in learing webdevelopment, Git/hub, and VIM. I am using
+[Freecodecamp](https://www.freecodecamp.com) :thumbsup:. All codes are from freecodecamp, unless specified otherwise.   
 
 ### Content
 1. Responsive Web Design
